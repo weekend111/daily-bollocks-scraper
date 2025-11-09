@@ -21,7 +21,9 @@ const CHANNELS = {
     { id: 'UCY8xv3_NT4zAwq2-xExyJYw', name: 'Mahyar Tousi TV', bias: 'right' },
     { id: 'UCmn84Mr7M5PC_8kH5-C0FeQ', name: 'Talk TV', bias: 'right' },
     { id: 'UCGy6uV7yqGWDeUWTZzT3ZEg', name: 'Rebel News', bias: 'right' },
-    { id: 'UCGSGPehp0RWfca-kENgBJ9Q', name: 'Turning Point UK', bias: 'right' }
+    { id: 'UCGSGPehp0RWfca-kENgBJ9Q', name: 'Turning Point UK', bias: 'right' },
+    { id: 'UCeZKhAUnM_DPK_ebBjicL-A', name: 'Paul Thorpe', bias: 'right' },
+    { id: 'UCEaHwD60ELjW4hCJGxjMHfA', name: 'Black Belt Barrister', bias: 'right' }
   ],
   auditors: [
   { id: 'UCH4IHPEhj3u9AY41L1XDzEQ', name: 'AY Audits', bias: 'center' },
