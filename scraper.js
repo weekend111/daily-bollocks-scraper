@@ -23,6 +23,7 @@ const CHANNELS = {
     { id: 'UCGy6uV7yqGWDeUWTZzT3ZEg', name: 'Rebel News', bias: 'right' },
     { id: 'UCGSGPehp0RWfca-kENgBJ9Q', name: 'Turning Point UK', bias: 'right' }
   ],
+  auditors: [
   { id: 'UCH4IHPEhj3u9AY41L1XDzEQ', name: 'AY Audits', bias: 'center' },
     { id: 'UCnV9btCxBukTundI7-JJeMA', name: 'Knockout Audit', bias: 'center' },
     { id: 'UCDwFuH2iQhxGEcWN78C2vTw', name: 'BB Audit', bias: 'center' },
