@@ -48,8 +48,13 @@ const CHANNELS = {
     { id: 'UCsYc88bu6GUHN7TdJZFilSQ', name: 'Channel 4 News', bias: 'woke' }
   ],
   
-  leftSocial: [
-    { id: 'UCJm5yQ1KpqCidHJPc6xVZpg', name: 'Novara Media', bias: 'left' }
+leftSocial: [
+    { id: 'UCJm5yQ1KpqCidHJPc6xVZpg', name: 'Novara Media', bias: 'left' },
+    { id: 'UCO79NsDE5FpMowUH1YcBFcA', name: 'Jonathan Pie', bias: 'left' },
+    { id: 'UCyzkxMLeZDcd_Qhzh6uMgbg', name: 'PoliticsJOE', bias: 'left' },
+    { id: 'UCf_HItERkRB3vnkWt2RSOLg', name: 'George Galloway', bias: 'left' },
+    { id: 'UCj1_pZ7vmxnhy5clIcMVJtg', name: 'A Different Bias', bias: 'left' },
+    { id: 'UC2DHAQOeEg-Z-4trARDXHRA', name: 'The New Statesman', bias: 'left' }
   ]
 };
 
