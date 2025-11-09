@@ -289,12 +289,15 @@ app.get('/api/articles', (req, res) => {
       const articles = JSON.parse(fs.readFileSync('latest.json', 'utf8'));
       res.json(articles);
     } else {
-      res.json({ 
+    res.json({ 
         message: 'No articles yet. Trigger /api/scrape to generate.',
         newMedia: [],
         auditors: [],
         mainstream: [],
-        leftSocial: []
+        leftSocial: [],
+        sportSocial: [],
+        techSocial: [],
+        royalsSocial: []
       });
     }
   } catch (error) {
