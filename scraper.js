@@ -186,11 +186,14 @@ Return ONLY valid JSON:
 async function scrapeAllChannels() {
   console.log('🚀 Scraping started:', new Date().toISOString());
   
-  const allArticles = {
+ const allArticles = {
     newMedia: [],
     auditors: [],
     mainstream: [],
-    leftSocial: []
+    leftSocial: [],
+    sportSocial: [],
+    techSocial: [],
+    royalsSocial: []
   };
 
   for (const [category, channels] of Object.entries(CHANNELS)) {
