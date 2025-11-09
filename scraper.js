@@ -55,29 +55,27 @@ leftSocial: [
     { id: 'UCf_HItERkRB3vnkWt2RSOLg', name: 'George Galloway', bias: 'left' },
     { id: 'UCj1_pZ7vmxnhy5clIcMVJtg', name: 'A Different Bias', bias: 'left' },
     { id: 'UC2DHAQOeEg-Z-4trARDXHRA', name: 'The New Statesman', bias: 'left' }
+  ],
+  
+  sportSocial: [
+    { id: 'UCWw6scNyopJ0yjMu1SyOEyw', name: 'TalkSport', bias: 'sport' },
+    { id: 'UC4dzcboWxNjsUgjtxkLO1Rg', name: 'Sky Sports Football', bias: 'sport' },
+    { id: 'UCkd4takjjF1EGD1TKIK2QiA', name: 'Sky Sports Cricket', bias: 'sport' },
+    { id: 'UCE28rwYoaV7jvU6GVzdu_GQ', name: 'World Rugby', bias: 'sport' }
+  ],
+  
+  techSocial: [
+    { id: 'UCddiUEpeqJcYeBxX1IVBKvQ', name: 'The Verge', bias: 'tech' },
+    { id: 'UCAY_M9HyJb8oMKPV1utQQyA', name: 'TechRadar', bias: 'tech' },
+    { id: 'UCBJycsmduvYEL83R_U4JriQ', name: 'MKBHD', bias: 'tech' }
+  ],
+  
+  royalsSocial: [
+    { id: 'UC5QrlJmN0CA88HBJcOS99XA', name: 'HELLO! Magazine', bias: 'royals' },
+    { id: 'UCkwA8LWhkhwIn1cHC7JnhjQ', name: 'Dan Wootton Outspoken', bias: 'royals' }
   ]
 };
 
-// SPORT CHANNELS
-const sportSocial = [
-  { channelId: 'UCWw6scNyopJ0yjMu1SyOEyw', bias: 'sport', name: 'TalkSport' },
-  { channelId: 'UC4dzcboWxNjsUgjtxkLO1Rg', bias: 'sport', name: 'Sky Sports Football' },
-  { channelId: 'UCkd4takjjF1EGD1TKIK2QiA', bias: 'sport', name: 'Sky Sports Cricket' },
-  { channelId: 'UCE28rwYoaV7jvU6GVzdu_GQ', bias: 'sport', name: 'World Rugby' }
-];
-
-// TECH/AI CHANNELS
-const techSocial = [
-  { channelId: 'UCddiUEpeqJcYeBxX1IVBKvQ', bias: 'tech', name: 'The Verge' },
-  { channelId: 'UCAY_M9HyJb8oMKPV1utQQyA', bias: 'tech', name: 'TechRadar' },
-  { channelId: 'UCBJycsmduvYEL83R_U4JriQ', bias: 'tech', name: 'MKBHD' }
-];
-
-// ROYALS CHANNELS
-const royalsSocial = [
-  { channelId: 'UC5QrlJmN0CA88HBJcOS99XA', bias: 'royals', name: 'HELLO! Magazine' },
-  { channelId: 'UCkwA8LWhkhwIn1cHC7JnhjQ', bias: 'royals', name: 'Dan Wootton Outspoken' }
-];
 
 // ============================================
 // YOUTUBE SCRAPER FUNCTIONS
