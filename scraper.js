@@ -23,11 +23,22 @@ const CHANNELS = {
     { id: 'UCGy6uV7yqGWDeUWTZzT3ZEg', name: 'Rebel News', bias: 'right' },
     { id: 'UCGSGPehp0RWfca-kENgBJ9Q', name: 'Turning Point UK', bias: 'right' }
   ],
-  
-  auditors: [
-    { id: 'CHANNEL_ID', name: 'AY Audits', bias: 'center' },
-    { id: 'CHANNEL_ID', name: 'DP Audits', bias: 'center' },
-    { id: 'CHANNEL_ID', name: 'Charlie Veitch', bias: 'center' }
+  { id: 'UCH4IHPEhj3u9AY41L1XDzEQ', name: 'AY Audits', bias: 'center' },
+    { id: 'UCnV9btCxBukTundI7-JJeMA', name: 'Knockout Audit', bias: 'center' },
+    { id: 'UCDwFuH2iQhxGEcWN78C2vTw', name: 'BB Audit', bias: 'center' },
+    { id: 'UCAT1hrz2Uu3fneWaRuk2d0A', name: 'Laudits', bias: 'center' },
+    { id: 'UCVtsg1b7bNsWaDPauIWYShg', name: 'Cozzy', bias: 'center' },
+    { id: 'UCDGZXSC6ktsKk5yiAGlsJIQ', name: 'Baraka', bias: 'center' },
+    { id: 'UCnRnLjggWqNbROyuwlgvt1g', name: 'Laine Audits', bias: 'center' },
+    { id: 'UC0znI3dRWpNF8lvbPBTlzyw', name: 'Charlie Veitch', bias: 'center' },
+    { id: 'UCLDQOK25QpaXMDuBiDGBrnA', name: 'The Lesbian Cartel', bias: 'center' },
+    { id: 'UCPCTvUrihN3AUsuPnMtxxHw', name: 'Yorkshire Rose', bias: 'center' },
+    { id: 'UCfWrLC5krwM6yhNaJLHklYg', name: 'Mystic Media', bias: 'center' },
+    { id: 'UCZtL7N0QfW3Oiqb-A0y4TgA', name: 'DJE Media', bias: 'center' },
+    { id: 'UCjhRn5K-E1bP9yoXHGqhJ_g', name: 'Focus Pocus', bias: 'center' },
+    { id: 'UCBnoqPuKp8WB2GVPTq0dcEA', name: 'Auditing Britain', bias: 'center' },
+    { id: 'UCS1Q6F0jbvk0gHM8c-u6jEA', name: 'Power To The Proletariat', bias: 'center' },
+    { id: 'UCdl8xpTnbcJSsEo1Z5VvHOQ', name: 'Koleeberks', bias: 'center' }
   ],
   
   mainstream: [
