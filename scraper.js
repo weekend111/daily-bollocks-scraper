@@ -58,6 +58,27 @@ leftSocial: [
   ]
 };
 
+// SPORT CHANNELS
+const sportSocial = [
+  { channelId: 'UCWw6scNyopJ0yjMu1SyOEyw', bias: 'sport', name: 'TalkSport' },
+  { channelId: 'UC4dzcboWxNjsUgjtxkLO1Rg', bias: 'sport', name: 'Sky Sports Football' },
+  { channelId: 'UCkd4takjjF1EGD1TKIK2QiA', bias: 'sport', name: 'Sky Sports Cricket' },
+  { channelId: 'UCE28rwYoaV7jvU6GVzdu_GQ', bias: 'sport', name: 'World Rugby' }
+];
+
+// TECH/AI CHANNELS
+const techSocial = [
+  { channelId: 'UCddiUEpeqJcYeBxX1IVBKvQ', bias: 'tech', name: 'The Verge' },
+  { channelId: 'UCAY_M9HyJb8oMKPV1utQQyA', bias: 'tech', name: 'TechRadar' },
+  { channelId: 'UCBJycsmduvYEL83R_U4JriQ', bias: 'tech', name: 'MKBHD' }
+];
+
+// ROYALS CHANNELS
+const royalsSocial = [
+  { channelId: 'UC5QrlJmN0CA88HBJcOS99XA', bias: 'royals', name: 'HELLO! Magazine' },
+  { channelId: 'UCkwA8LWhkhwIn1cHC7JnhjQ', bias: 'royals', name: 'Dan Wootton Outspoken' }
+];
+
 // ============================================
 // YOUTUBE SCRAPER FUNCTIONS
 // ============================================
