@@ -236,11 +236,14 @@ async function scrapeAllChannels() {
     }
   }
 
-  console.log('\n✅ Scraping complete!');
+console.log('\n✅ Scraping complete!');
   console.log(`   New Media: ${allArticles.newMedia.length}`);
   console.log(`   Auditors: ${allArticles.auditors.length}`);
   console.log(`   Mainstream: ${allArticles.mainstream.length}`);
   console.log(`   Left Social: ${allArticles.leftSocial.length}`);
+  console.log(`   Sport: ${allArticles.sportSocial.length}`);
+  console.log(`   Tech: ${allArticles.techSocial.length}`);
+  console.log(`   Royals: ${allArticles.royalsSocial.length}`);
   
   return allArticles;
 }
